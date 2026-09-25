@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/db-rail",
   "title": "Db Rail",
   "description": "DB Rail MCP — German + European rail and public transport, keyless.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/db-rail",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-db-rail",
